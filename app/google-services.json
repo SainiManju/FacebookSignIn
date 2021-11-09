@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678121673753",
+    "project_id": "fir-facebooksignin-4c4e7",
+    "storage_bucket": "fir-facebooksignin-4c4e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678121673753:android:920d7b0383fa7242ac4688",
+        "android_client_info": {
+          "package_name": "com.example.firebasefacebooksignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678121673753-t7q66lvd5sru2fr4o847qin3vsbp52ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARY4Ahy8LibrG5t2Px5xAcQ7lSpX7z9_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678121673753-t7q66lvd5sru2fr4o847qin3vsbp52ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
